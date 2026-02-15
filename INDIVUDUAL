@@ -1,1 +1,6 @@
+I contributed most strongly to the machine learning modeling process, especially building and refining the XGBoost churn prediction model and validating performance using AUC and SHAP analysis.
+
+One approach I advocated for was using XGBoost rather than relying only on logistic regression because it captured nonlinear relationships and improved predictive accuracy.
+
+One lesson learned was the importance of clean feature engineering and validating assumptions early. If given more time, I would improve model calibration and build a simple dashboard for business users.
 
